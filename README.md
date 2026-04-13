@@ -22,10 +22,6 @@ AI-based waste detection system using YOLOv8.
 - Implemented real-time detection and visualization
 
 
-## Database
-
-![Database](database_runs_table.jpg)
-
 ## Description
 EcoEyes is a smart system that detects and classifies waste from images and visualizes results through an interactive dashboard.
 ## Dashboard Overview
@@ -38,3 +34,8 @@ EcoEyes is a smart system that detects and classifies waste from images and visu
 
 ## Waste Detection with Alert System
 ![Detection](detection_result_glass.jpg)
+
+## Database
+The system saves all detection results in a database, including the waste type, confidence, and analysis time. This helps track and analyze data over time.
+
+![Database](database_runs_table.jpg)
